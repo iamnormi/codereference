@@ -1,0 +1,117 @@
+ <!DOCTYPE html>
+ <html lang='en'>
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title> Flask-tuto </title>
+		<link rel="stylesheet" href="{{ url_for('static',filename='style.css') }}">
+		<link rel="stylesheet" href="{{ url_for('static',filename='bootstrap.min.css') }}">
+		
+	</head>
+	<body>
+        <div id="navbar">
+            <h1> {{ title }}</h1>
+		</div>
+		<div class="container">
+			<form action="#" class="form-group mt-4 form-inline" method="POST">
+				<input type="text" name="task" placeholder = "Enter any task..." class="form-control form-control-md m-3" required>
+			<button class = "btn btn-md btn-primary" type ="submit" >
+				Add Task	
+			</button>
+			</form>	
+		</div>
+		<div class="container">
+			<table class="table text-center talble-bordered">
+				<tr>
+					<th>
+						ID
+					</th>
+					<th>
+						Task
+					</th>
+					<th>
+						Date Time
+					</th>
+					<th>
+						Action
+					</th>
+				</tr>
+				<tr>
+					<td>
+						1
+					</td>
+					<td>
+						Read Book
+					</td>
+					<td>
+						30 September 2020 10:30 AM
+					</td>
+					<td>
+						<a class = "btn btn-success mr-2" href="#">Update</a>
+						<a class = "btn btn-danger ml-2" href="#">Delete</a>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						1
+					</td>
+					<td>
+						Read Book
+					</td>
+					<td>
+						30 September 2020 10:30 AM
+					</td>
+					<td>
+						<a class = "btn btn-success mr-2" href="#">Update</a>
+						<a class = "btn btn-danger ml-2" href="#">Delete</a>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						1
+					</td>
+					<td>
+						Read Book
+					</td>
+					<td>
+						30 September 2020 10:30 AM
+					</td>
+					<td>
+						<a class = "btn btn-success mr-2" href="#">Update</a>
+						<a class = "btn btn-danger ml-2" href="#">Delete</a>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						1
+					</td>
+					<td>
+						Read Book
+					</td>
+					<td>
+						30 September 2020 10:30 AM
+					</td>
+					<td>
+						<a class = "btn btn-success mr-2" href="#">Update</a>
+						<a class = "btn btn-danger ml-2" href="#">Delete</a>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						1
+					</td>
+					<td>
+						Read Book
+					</td>
+					<td>
+						30 September 2020 10:30 AM
+					</td>
+					<td>
+						<a class = "btn btn-success mr-2" href="#">Update</a>
+						<a class = "btn btn-danger ml-2" href="#">Delete</a>
+					</td>
+				</tr>
+			</table>
+		</div>
+	</body>
+</html>

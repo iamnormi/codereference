@@ -1,0 +1,6 @@
+To set up database first we have to install,
+
+* Type the following command in cmd or terminal press Enter.
+  pip install flask_sqlalchemy
+
+* flask_sqlalchemy Module is installed Now.

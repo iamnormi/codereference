@@ -1,0 +1,48 @@
+GitHub introduction:
+
+1,Windows,GitHub installation:
+* Download gitHub For windows from
+  https://git-scm.com/downloads
+* Download the App, the respecting one U want.
+
+* And install with default settings.
+
+2,Linux,GitHub installation:
+
+For GUI Interface of GitHub:
+* Download gitHub For windows from
+  https://git-scm.com/downloads
+* Download the App, the respecting one U want.
+* And install with default settings.
+
+For CLI Intercface of GitHub:
+* Open terminal, and type
+  apt install github
+
+3.Create a GitHub Account form,
+  https://github.com
+
+4.Follow the Following:
+
+* Create repository in GitHub:
+
+ When repository name is check,
+
+...or create a new repository command line: 
+
+echo "# check" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/Devilianunknowncoder/check.git
+git push -u origin master
+
+* Push the code in repository:
+. . .or push an existing repository from the command line
+
+git remote add origin https://github.com/Devilianunknowncoder/check.git
+git branch -M master
+git push -u origin master
+
+Pushed code in Codes Folder.

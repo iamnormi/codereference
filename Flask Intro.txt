@@ -1,0 +1,14 @@
+What is Falsk:
+
+A MicroFramework Written in Python for web micro meaning simple core but highly extensible
+used to create websites api's.
+
+Other Python Frameworks
+
+Django
+Bottle
+CherryPy
+Pecan
+Pyramid
+web.py
+...

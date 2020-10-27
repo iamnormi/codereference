@@ -1,0 +1,37 @@
+This web Develpment is depend on " 'Flask' micro FrameWork" which is wriiten in Python:
+
+So that,
+First we have install python from the website www.python.org (Python is open-source so we can install python for free)
+
+Download it and open it.
+
+* In Installer, click the Check-Box 'Add python x.x to PATH' (Here x is version) 
+  This is For We can Access python any Location in powershell or command prompt.
+* And Click 'customize Installation'
+
+* Click all check-Box.. ,Click 'Next'
+
+* Here,Click the Check-Box 'Install for All users' And click 'Install'.
+
+* Wait untill the process Finish... and Click 'Close'
+
+* Check Weather python is installed correctly by Opening powershell or command prompt And type "python".
+  weather python iterpreter is opened Means Python installed Correctly. 
+
+ 
+Next We Have to install an IDE...
+Recommanded is Vs code(Microsoft)
+
+For That, 
+ 
+* Go to browser Type 'Vs code Download' in Sesrch Bar, click On the First link.
+
+* Download Your system supported installer.
+
+* Intall it and run it...
+
+* After that,
+install Some EXtension In it...
+ 1.Python
+ 2.Git History
+ 3.SQLite  

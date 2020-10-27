@@ -1,0 +1,5 @@
+Flask Templates:
+* In the Development Folder Create a folder as 'templates' (Inbuild folder in Flask FrameWork).
+* In that Folder, we Have Include all the Frontend Files in it.
+
+Codes are in Codes folder

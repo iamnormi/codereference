@@ -1,0 +1,16 @@
+To setup Bootstrap Online we have to download it from the Website,
+https://getbootstrap.com/
+
+Download the latest version.
+
+A zip would be downloaded. extract it,find 'css' folder,
+
+In that, copy the 'bootstrap.min.css' file, to 'static' folder in development folder.
+
+And this file as common as the previous css file added.
+
+Then,run the server,you will get same output what you get previously.
+
+If you got that Answer, Means you done the task correctly.
+
+Codes are in Codes 'folder' 

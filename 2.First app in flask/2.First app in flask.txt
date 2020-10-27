@@ -1,0 +1,29 @@
+To create a First Maintain it in a Specfic folder.
+
+Create Virtual Environmental for update pre-causion.
+
+For that, We use An package "pipenv"
+
+* pip3 install pipenv
+  (In #linux# execute this command as Root user in #Terminal#)
+  (In #windows# execute this command in Administrator Mood in #command prompt#)
+* pipenv shell 
+
+  ----------------***------------***--------------------
+
+
+On that,
+
+Next install "Flask"
+
+* pip install flask
+   ("FLask" installed Sucessfully)
+
+ -----------------***------------***-------------------
+
+
+Next Create a .py And Write the following in it,
+
+Next Name app.py in The folder codes.
+
+Next Name views.py in The folder codes.

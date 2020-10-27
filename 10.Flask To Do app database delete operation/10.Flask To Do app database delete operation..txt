@@ -1,0 +1,6 @@
+Flask To Do app database delete operation
+
+Here We delete a task in frontend by Backend.
+
+
+Codes are in codes Folder

@@ -1,0 +1,6 @@
+Like 'templates' Flask Has another inbuild conditional directory is 'static'
+
+In static directory, The Styling files are stored.
+
+codes in  Codes folder.
+  

@@ -1,0 +1,6 @@
+Flask Todo app database read operation
+
+Inthis read data from frontend and adding it to backend.
+
+
+Codes are codes folder   
