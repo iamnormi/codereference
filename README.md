@@ -1,4 +1,4 @@
 # code-Reference
 
-Full Code reference repository:
+Full Code reference of repository:
 https://github.com/Devilianunknowncoder/Flask-tutorial.git
